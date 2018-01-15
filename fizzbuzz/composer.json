@@ -1,0 +1,13 @@
+{
+  "name": "feda/fizzbuzz",
+  "description": "Fizzbuzz",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Sarder\\": "src/Sarder"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6"
+  }
+}
