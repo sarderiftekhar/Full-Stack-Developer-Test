@@ -2,7 +2,7 @@
 require "vendor/autoload.php";
 require "src/Sarder/FizzBuzz.php";
 
-// require_once __DIR__ . '/Sayem/FizzBuzz.php';
+// require_once __DIR__ . '/Sarder/FizzBuzz.php';
 
 
 
