@@ -8,9 +8,6 @@ You may Google any terms or methods you're unfamiler with but try not to copy an
 
 If any part of this test is tripping you up, move on, we'd rather see a you attempt at least some of all of the tasks. The most important is Part 4.
 
-Taking / Submitting the test
-In order to take this test you should clone this repository into a GitHub repository, DO NOT FORK as other applications will see your code. Once you have completed all the tasks you can either add waxim as a collaborator to the new repository or email a link to alan.cole@smarterly.co.uk
-
 Part 1 - PHP
 Inside the PHP folder is a file, this file queries a SQL table (sql file provided in /php/data)
 
